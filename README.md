@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Control Surface**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **AWS**
 
-- 🤝 I’m looking for help with **NextJs**
+- 🤝 I’m looking for help with **Docker**
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS, MongoDB, Express, Node**
 

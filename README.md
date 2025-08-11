@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashky&label=Profile%20views&color=0e75b6&style=flat" alt="akashky" /> </p>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="akashky" />
+<img src="https://res.cloudinary.com/akashyadavcodingmind/image/upload/v1754914810/Image_ofchuu.jpg" alt="akashky" />
 
 - 🔭 I’m currently working on **Control Surface**
 
